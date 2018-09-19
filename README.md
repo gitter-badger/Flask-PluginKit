@@ -2,7 +2,7 @@
 
 基于Flask的插件式开发工具(Web program plugin development kit based on flask).
 
-[![Build Status](https://travis-ci.com/staugur/Flask-PluginKit.svg?branch=master)](https://travis-ci.com/staugur/Flask-PluginKit)
+[![Build Status](https://travis-ci.com/staugur/Flask-PluginKit.svg?branch=master)](https://travis-ci.com/staugur/Flask-PluginKit) [![Join the chat at https://gitter.im/Flask-PluginKit/Lobby](https://badges.gitter.im/Flask-PluginKit/Lobby.svg)](https://gitter.im/Flask-PluginKit/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 ### 使用概述(Overview)
